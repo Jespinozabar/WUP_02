@@ -63,3 +63,5 @@ The p value is.00000003405.This is a very small number it is rare and it doesnt 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We went throught the three steps of puttig in a graphical result a numerical result and a statistical resulty and by the end we came up with the comclusion that the c52 method made more vitamin c than the c39 method. 
