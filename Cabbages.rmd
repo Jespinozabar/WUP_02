@@ -38,6 +38,8 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy)
 ```
 
+It looks like C52 seems to be producing more vitamin c than C39. The bottom of the C52 box is higher than the C39 box. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
